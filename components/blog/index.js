@@ -40,18 +40,8 @@ export default () => (
       ))}
     </div>
     <button type="button" href="" className="btn btn-outline-big">
-      View all
+      Tümüm görüntüle
     </button>
-    <img className="imgpost providers__draw" src="./assets/postmain.png" alt="blog post" />
-
-    <style jsx>
-      {`
-        .imgpost {
-          position: absolute;
-    margin-top: 1108px;
-      }
-      `}
-    </style>
 
   </section>
 );
