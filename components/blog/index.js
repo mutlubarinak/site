@@ -42,7 +42,7 @@ export default () => (
     <button type="button" href="" className="btn btn-outline-big">
       View all
     </button>
-    <img className="imgpost" src="./assets/postmain.png" alt="blog post" />
+    <img className="imgpost providers__draw" src="./assets/postmain.png" alt="blog post" />
 
     <style jsx>
       {`
